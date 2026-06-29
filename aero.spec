@@ -16,10 +16,12 @@ a = Analysis(
         ("AeroRoster20260127.json", "."),
         *collect_data_files("sv_ttk"),
         *collect_data_files("tkcalendar"),
+        *collect_data_files("tzdata"),
     ],
     hiddenimports=[
         "babel.numbers",
         "babel.dates",
+        "tzdata",
     ],
     hookspath=[],
     runtime_hooks=[],
