@@ -1,0 +1,19 @@
+# PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.venv-win/
+
+# User data
+missions/
+*.pdf
+!example/*.pdf
+
+# Generated / scratch
+last.md

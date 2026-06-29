@@ -1,0 +1,567 @@
+{
+  "san_luis_obispo_county_sheriff_aero_squadron": {
+    "membership_roster": {
+      "date": "2026-01-27",
+      "revision": "20260127",
+      "confidential": true,
+      "directory": {
+        "general_membership": [
+          {
+            "badge": "A-10",
+            "name": "Chris Anderson",
+            "rank": "Lt.",
+            "role": "County/Agency Liaison",
+            "contact": {
+              "phone": [
+                "(805)704-4779 (C)",
+                "(805)543-2626 (B)"
+              ],
+              "email": "2point0@mail.com"
+            },
+            "address": "134 Cerro Romauldo, San Luis Obispo, CA 93405"
+          },
+          {
+            "badge": "A-24",
+            "name": "Michael Amorteguy",
+            "rank": "Lt.",
+            "role": "Adjutant",
+            "contact": {
+              "phone": [
+                "(805)441-0611 (C)",
+                "(805)546-7776 (B)"
+              ],
+              "email": "mamorteguy@charter.net"
+            },
+            "address": "1288 Sawleaf Street, San Luis Obispo, CA 93401"
+          },
+          {
+            "badge": "A-34",
+            "name": "Christopher Banys",
+            "rank": "Lt.",
+            "role": "Mission Training/Flight Safety",
+            "contact": {
+              "phone": [
+                "(650)223-4672 (C)"
+              ],
+              "email": "chris@antiguabrewingusa.com",
+              "emergency_contact": {
+                "name": "BAMBI",
+                "relationship": "SPOUSE",
+                "phone": "408/348-2278"
+              }
+            },
+            "address": "4950 Davenport Creek Road, San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Carbon Cub",
+                "registration": "N716PM",
+                "seats": "2 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "Black and Red"
+              },
+              {
+                "model": "Beechcraft Bonanza",
+                "registration": "N2060D",
+                "seats": "4 Place",
+                "weight_class": "LW",
+                "airport": "KSBP",
+                "color": "Silver Blue and Red"
+              }
+            ]
+          },
+          {
+            "badge": "A-7",
+            "name": "Tom Black",
+            "contact": {
+              "phone": [
+                "(805)550-5034 (C)"
+              ],
+              "email": "tmb321@gmail.com"
+            },
+            "address": "San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Robinson R-66 Turbine Helicopter",
+                "registration": "N911TT",
+                "seats": "5 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "Black/White"
+              }
+            ]
+          },
+          {
+            "badge": "A-5",
+            "name": "Ronald Blakey",
+            "role": "Past Commander",
+            "contact": {
+              "phone": [
+                "(805)550-1377 (C)",
+                "(805)489-1760 (R)"
+              ],
+              "email": "aerocamino@juno.com"
+            },
+            "address": "1250 Pomeroy Road, Arroyo Grande, CA 93420"
+          },
+          {
+            "badge": "A-21",
+            "name": "Jim Buenrostro",
+            "rank": "Lt.",
+            "role": "Intelligence",
+            "contact": {
+              "phone": [
+                "(805)801-4876 (C)",
+                "(805)544-2458 (R)"
+              ],
+              "email": "JNB33@yahoo.com"
+            },
+            "address": "1218 Mariners Cove, San Luis Obispo, CA 93405"
+          },
+          {
+            "badge": "A-22",
+            "name": "Michael Cannon",
+            "role": "EMT",
+            "contact": {
+              "phone": [
+                "(805)995-1735 (C)"
+              ],
+              "email": "24AERO22@gmail.com"
+            },
+            "address": "1065 St. Mary, Cayucos, CA 93430"
+          },
+          {
+            "badge": "A-611",
+            "name": "Andrew DeCoteau",
+            "contact": {
+              "phone": [
+                "(707)299-7982 (C)"
+              ],
+              "email": "decoteau.andrew@gmail.com"
+            },
+            "address": "2903 Garibaldi Avenue, San Luis Obispo, CA 93401"
+          },
+          {
+            "badge": "A-23",
+            "name": "Stewart Errico",
+            "rank": "Lt.",
+            "role": "Flight Operations",
+            "contact": {
+              "phone": [
+                "(301)769-1321 (C)"
+              ],
+              "email": "stew.errico@yahoo.com"
+            },
+            "address": "1570 Strawberry Ave., Arroyo Grande, CA 93420"
+          },
+          {
+            "badge": "A-1",
+            "name": "Jens Hansen",
+            "rank": "Capt.",
+            "role": "Commander",
+            "contact": {
+              "phone": [
+                "(805)478-1666 (C)",
+                "(805)343-2666 (B)"
+              ],
+              "email": "jens@thegrid.net"
+            },
+            "address": "512 Sheridan Road, Arroyo Grande, CA 93420",
+            "aircraft": [
+              {
+                "model": "Cessna 172N Skyhawk",
+                "registration": "N733GM",
+                "seats": "4 Place",
+                "weight_class": "HW",
+                "airport": "KSMX",
+                "color": "White with Blue trim"
+              }
+            ]
+          },
+          {
+            "badge": "A-27",
+            "name": "Jack Hofstra",
+            "contact": {
+              "phone": [
+                "(818)825-8986 (C)"
+              ],
+              "email": "jhofstra@hotmail.com"
+            },
+            "address": "4865 Bridgecreek Road, San Luis Obispo, CA 93401"
+          },
+          {
+            "badge": "A-11",
+            "name": "Devon Johnson",
+            "contact": {
+              "phone": [
+                "(805)434-6951 (C)",
+                "(805)400-4336 (B)"
+              ],
+              "email": "oodevo@gmail.com"
+            },
+            "address": "2290 Lils Place, Templeton, CA 93465"
+          },
+          {
+            "badge": "A-43",
+            "name": "Matt Kokkonen",
+            "contact": {
+              "phone": [
+                "(805)886-1880 (C)",
+                "(805)541-1880 (B)",
+                "(805)595-2565 (R)"
+              ],
+              "email": "matt@finmatters.com"
+            },
+            "address": "1103 Johnson Avenue, San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Helio Courier",
+                "registration": "N300FT",
+                "seats": "6 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "White with Blue trim"
+              }
+            ]
+          },
+          {
+            "badge": "A-28",
+            "name": "Bruce Ourieff",
+            "rank": "Lt.",
+            "role": "Flight Surgeon",
+            "contact": {
+              "phone": [
+                "(805)878-0689 (C)"
+              ],
+              "email": "bruce@ourieff.com"
+            },
+            "address": "1040 Ridgecrest Place, Nipomo, CA 93444"
+          },
+          {
+            "badge": "A-35",
+            "name": "Marco Rizzo",
+            "contact": {
+              "phone": [
+                "(805)431-2972 (C)",
+                "(805)541-8452 (R)",
+                "(805)541-6800 (B)"
+              ],
+              "email": "marcolrizzo@gmail.com",
+              "emergency_contact": {
+                "name": "VANESSA",
+                "relationship": "SPOUSE",
+                "phone": "805/431-2975"
+              }
+            },
+            "address": "2437 Cumbre Court, San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Cessna C-180",
+                "registration": "N9386C",
+                "seats": "4 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "White with Green trim"
+              }
+            ]
+          },
+          {
+            "badge": "A-18",
+            "name": "John Rogers",
+            "rank": "Lt.",
+            "role": "Logistics/Assets",
+            "contact": {
+              "phone": [
+                "(805)801-8464 (C)",
+                "(805)594-0590 (R)",
+                "(805)781-4005 (B)"
+              ],
+              "email": "jrogers@co.slo.ca.us"
+            },
+            "address": "3860 S. Higuera St. A-8, San Luis Obispo, CA 93401"
+          },
+          {
+            "badge": "A-47",
+            "name": "Lonny Rollins",
+            "rank": "Lt.",
+            "role": "Technology",
+            "contact": {
+              "phone": [
+                "(805)440-6407 (C)",
+                "(805)545-9562 (B)"
+              ],
+              "email": "Lonny@TheRollins.family"
+            },
+            "address": "305 Calle Lupita, San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Piper Cherokee Warrior P-28A/G",
+                "registration": "N8175H",
+                "weight_class": "LW",
+                "airport": "KSBP",
+                "color": "White, Burgundy and Grey Stripe"
+              }
+            ]
+          },
+          {
+            "badge": "A-9",
+            "name": "Julian Rossi",
+            "contact": {
+              "phone": [
+                "(707)287-5824 (C)"
+              ],
+              "email": "juliang.g.rossi@gmail.com",
+              "emergency_contact": {
+                "name": "KATE",
+                "relationship": "SPOUSE",
+                "phone": "805/704-6738"
+              }
+            },
+            "address": "7720 Balboa Road, Atascadero, CA 93422"
+          },
+          {
+            "badge": "A-32",
+            "name": "Allie Settle",
+            "rank": "Lt.",
+            "role": "Adjutant",
+            "contact": {
+              "phone": [
+                "(330)523-8339 (C)"
+              ],
+              "email": "allie@aksaviation.net",
+              "emergency_contact": {
+                "name": "SCOTT",
+                "relationship": "SPOUSE",
+                "phone": "805/720-8490"
+              }
+            },
+            "address": "8705 Santa Cruz Road, Atascadero, CA 93422",
+            "aircraft": [
+              {
+                "model": "Piper Warrior II",
+                "registration": "N713RE",
+                "seats": "4 Place",
+                "weight_class": "LW",
+                "airport": "KSBP",
+                "color": "Silver, White, Black Stripes"
+              }
+            ]
+          },
+          {
+            "badge": "A-33",
+            "name": "Scott Settle",
+            "rank": "Lt.",
+            "role": "Flight Safety and Certification",
+            "contact": {
+              "phone": [
+                "(805)720-6490 (C)"
+              ],
+              "email": "scott@aksaviation.net"
+            },
+            "address": "8705 Santa Cruz Road, Atascadero, CA 93422",
+            "aircraft": [
+              {
+                "model": "Cessna T182R",
+                "registration": "N5532S",
+                "seats": "4 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "White with Black and Silver Stripe"
+              }
+            ]
+          },
+          {
+            "badge": "A-29",
+            "name": "Craig Shannon",
+            "rank": "Lt.",
+            "role": "At-Large",
+            "contact": {
+              "phone": [
+                "(805)235-2834 (C)"
+              ],
+              "email": "craigbioflora@gmail.com",
+              "emergency_contact": {
+                "name": "JOAN VARNER",
+                "relationship": "FRIEND",
+                "phone": "702/809-6725"
+              }
+            },
+            "address": "108 Esparto Avenue, Pismo Beach, CA 93449"
+          },
+          {
+            "badge": "A-12",
+            "name": "William Sima",
+            "contact": {
+              "phone": [
+                "(805)610-0282 (C)",
+                "(805)434-5555 (B)"
+              ],
+              "email": "sportsurgeon@sbcglobal.net"
+            },
+            "address": "3144 Cielo Grande, Atascadero, CA 93422",
+            "aircraft": [
+              {
+                "model": "Piper PA-46-500TP Malibu Meridian",
+                "registration": "N524PM",
+                "weight_class": "LW",
+                "airport": "KPRB",
+                "color": "Tan, Brown, Gold Stripes"
+              }
+            ]
+          },
+          {
+            "badge": "A-15",
+            "name": "Nick Thille",
+            "rank": "Lt.",
+            "role": "Executive",
+            "contact": {
+              "phone": [
+                "(805)748-7019 (C)"
+              ],
+              "email": "nick@thille.com",
+              "emergency_contact": {
+                "name": "DARCY",
+                "relationship": "SPOUSE",
+                "phone": "805/748-7035"
+              }
+            },
+            "address": "101 Avila Beach Dr., San Luis Obispo, CA 93401",
+            "aircraft": [
+              {
+                "model": "Beechcraft E95 Travel Air",
+                "registration": "N888JD",
+                "seats": "4 Place",
+                "weight_class": "LW",
+                "airport": "KSBP",
+                "color": "White with Blue trim"
+              },
+              {
+                "model": "Bellanca 8KCAB Super Decathlon",
+                "registration": "N5041Q",
+                "seats": "2 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "Blue, Orange and White"
+              },
+              {
+                "model": "Pitts Biplane",
+                "registration": "N6025L",
+                "seats": "2 Place",
+                "weight_class": "HW",
+                "airport": "KSBP",
+                "color": "Red with White Stripes"
+              }
+            ]
+          },
+          {
+            "badge": "A-16",
+            "name": "Abe Viero",
+            "contact": {
+              "phone": [
+                "(805)710-5140 (C)",
+                "(805)343-6077 (R)"
+              ],
+              "email": "aviero1@gmail.com"
+            },
+            "address": "669 Woodgreen Way, Nipomo, CA 93444"
+          }
+        ],
+        "emeritus_members": [
+          {
+            "badge": "A-23",
+            "name": "James Cromwell",
+            "contact": {
+              "phone": [
+                "(406)992-4035"
+              ],
+              "email": "budgersdad@gmail.com"
+            },
+            "address": "610 N. 1st. Street, Unit 5, Hamilton, MT 59840"
+          },
+          {
+            "badge": "A-4",
+            "name": "Steven Frank",
+            "contact": {
+              "phone": [
+                "(805)440-3114 (C)"
+              ],
+              "email": "slotowndino@gmail.com"
+            },
+            "address": "1955 Corbett Highlands Place, Arroyo Grande, CA 93420"
+          },
+          {
+            "badge": "A-3",
+            "name": "Gene Gailey",
+            "rank": "Lt.",
+            "role": "Past Commander",
+            "contact": {
+              "phone": [
+                "(805)441-5985 (C)"
+              ],
+              "email": "GCGailey@charter.net"
+            },
+            "address": "1785 Tanglewood Drive, San Luis Obispo, CA 93401"
+          },
+          {
+            "badge": "A-25",
+            "name": "Ed Heinbockel",
+            "rank": "Lt.",
+            "contact": {
+              "phone": [
+                "(307)203-5892"
+              ],
+              "email": "ed.heinbockel@visualpurple.com"
+            },
+            "address": "592 Airport Drive No. 6, PO Box 3310, Alpine, WY 83128"
+          },
+          {
+            "badge": "A-6",
+            "name": "Travis Wisberg",
+            "rank": "Lt.",
+            "contact": {
+              "phone": [
+                "(805)801-5017"
+              ],
+              "email": "wis17@yahoo.com"
+            },
+            "address": "661 Moon Shadow Rd., Bonners Ferry, ID 83805"
+          },
+          {
+            "badge": "A-45",
+            "name": "Ron Rose",
+            "rank": "Lt.",
+            "role": "Adjutant",
+            "contact": {
+              "phone": [
+                "(805)610-5803 (C)"
+              ],
+              "email": "ronrose@crms.com"
+            },
+            "address": "1004 Bogie Lane, Paso Robles, CA 93446"
+          }
+        ],
+        "honorary_members": [
+          {
+            "name": "Matthew Steven Frank",
+            "role": "aka SLOStringer"
+          },
+          {
+            "badge": "A-42",
+            "name": "Robert Kelley",
+            "role": "Past Commander"
+          },
+          {
+            "badge": "A-34",
+            "name": "Louis Pera",
+            "contact": {}
+          },
+          {
+            "badge": "A-2",
+            "name": "Bryan Duvall",
+            "role": "Past Commander"
+          }
+        ]
+      }
+    }
+  }
+}
